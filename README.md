@@ -1,1 +1,1 @@
-"# Learn-React-Native-Firebase-Auth-" 
+Learn-React-Native-Firebase-Auth
